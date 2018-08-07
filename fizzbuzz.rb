@@ -9,4 +9,3 @@ def fizzbuzz(number)
  else puts "#{n}"
 end
 end 
-end
